@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378378714025",
+    "project_id": "quizviz-application-madproject",
+    "storage_bucket": "quizviz-application-madproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378378714025:android:6dbfe4d54b446f240522b8",
+        "android_client_info": {
+          "package_name": "com.example.quizviz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378378714025-tkd7vv1nuddnfffek3q23p038rs8pom9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCgIfdirPg492kl-YQOc02YG9V2VNC4wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378378714025-tkd7vv1nuddnfffek3q23p038rs8pom9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
